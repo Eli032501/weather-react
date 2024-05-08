@@ -16,7 +16,7 @@ export default function Weather({ city }) {
       height="80"
       width="80"
       radius="3"
-      color="blue"
+      color="pink"
       ariaLabel="loading"
       wrapperStyle
       wrapperClass
